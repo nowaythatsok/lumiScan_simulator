@@ -11,6 +11,10 @@ The MC also uses two different fit models
 * Double Gaussian
 
 and does so for both on a [-3\sigma, 3\sigma] and a restricted [-1.5\sigma, 1.5\sigma] range (see & set in *Parameters.py*)
+___
+### Mind: 
+electronic noise feature (now off) might need revision.
+___
 
 #### run simulation using 
 python oSimulator.py
