@@ -36,3 +36,6 @@ This contains all parameters and has methods to perform
 * an export of the fit parameters
 
 The results are then stored in the Cummulator object.
+
+# Zero Counting Bias simulator
+This tiny script shows how zero counting overestimates the parameter of the Poisson distribution especially for small sample sises. 
